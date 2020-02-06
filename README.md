@@ -18,6 +18,6 @@ windows users can use the generated `app.exe`
 ![alt text](https://github.com/Sfeeen/sudo-Tinder/blob/master/sudo_tinder.JPG "preview")
 
 ### Credits 
-I started of from the Tinder api calls found by [fbessez](https://github.com/fbessez/Tinder). The fb-authenthication seemed not to work anymore, so that got fixed and I added some calls e.g. to change the location without a premium account.
+I started of from the Tinder api calls found by [fbessez](https://github.com/fbessez/Tinder). The fb-authenthication seemed not to work anymore, so that got fixed and I added some new calls e.g. to change the location without a premium account, to get all the likes pictures
 
 
