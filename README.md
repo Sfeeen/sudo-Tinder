@@ -1,5 +1,5 @@
 # sudo Tinder 💃💃
-A desktop GUI written in python that interacts with the tinder-servers. It provides some of the basis functionality (swiping, checking pictures) but more importantly it provides some extra features:
+A desktop GUI written in python that interacts with the tinder-servers. It provides some of the basic functionality (swiping, checking pictures) but more importantly it provides some extra features:
 
 * Load multiple potential swipes at once and choose who you swipe and who you do not want to swipe (or swipe later).
 * Change your location, fill in the longitude and latitude of were you want to be and the server will think that you are on that location.
