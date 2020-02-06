@@ -12,7 +12,7 @@ A desktop GUI written in python that interacts with the tinder-servers. It provi
 ### Usage
 run: `python3 app.py` 
 
-windows users can use the generated 'app.exe'
+windows users can use the generated `app.exe` 
 
 ### Preview
 ![alt text](https://github.com/Sfeeen/sudo-Tinder/blob/master/sudo_tinder.JPG "preview")
